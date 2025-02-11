@@ -384,3 +384,34 @@
 	.skype {
 		background-position: 0 -180px;
 	}
+
+	.image-table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+	.image-table td {
+		width: 20%;
+		padding: 5px;
+		text-align: center;
+	}
+
+	.image-table img {
+		width: 100%;
+		height: auto;
+	}
+
+	.social-media-table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+	.social-media-table td {
+		padding: 10px;
+		text-align: center;
+	}
+
+	.social-media-table img {
+		width: 50px;
+		height: 50px;
+	}
